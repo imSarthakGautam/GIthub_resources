@@ -7,3 +7,10 @@ Github repos you might need somewhere down the lane.
 - [Roadmap.sh](https://github.com/roadmapsh/deprecated-version)
 - [Low Level and High Level Design](https://github.com/ashishps1/awesome-low-level-design)
 - [Awesome](https://github.com/sindresorhus/awesome)
+
+### React Native Libraries- for UI design
+
+- tamagui.dev
+- NativeWind (Tailwind UI)
+- gluestack.io
+- React Native 
