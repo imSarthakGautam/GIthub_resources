@@ -8,7 +8,8 @@ Github repos you might need somewhere down the lane.
 - [Low Level and High Level Design](https://github.com/ashishps1/awesome-low-level-design)
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Full stack interview qna](https://github.com/aershov24/full-stack-interview-questions?tab=readme-ov-file)
-
+- [SaaS landing page boilerplate](https://github.com/AtotheY/saas-landingpage?tab=readme-ov-file)
+  
 ### React
 
 - [Awesome react](https://github.com/enaqx/awesome-react)
@@ -22,6 +23,13 @@ Github repos you might need somewhere down the lane.
 - [react hooks/use-2](https://github.com/uidotdev/usehooks)
 - [readct hooks cheatsheet](https://github.com/daxter-army/react-hooks-cheatsheet)
 - [Awesome Next Js](https://github.com/unicodeveloper/awesome-nextjs)
+
+### Backend Development Repos
+- [Awesome Backend](https://github.com/zhashkevych/awesome-backend)
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [clean architecture](https://github.com/panagiop/node.js-clean-architecture)
+- [Real World](https://github.com/gothinkster/realworld)
+
 
 ### React Native Libraries- for UI design
 
