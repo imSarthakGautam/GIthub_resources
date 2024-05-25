@@ -9,6 +9,8 @@ Github repos you might need somewhere down the lane.
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Full stack interview qna](https://github.com/aershov24/full-stack-interview-questions?tab=readme-ov-file)
 - [SaaS landing page boilerplate](https://github.com/AtotheY/saas-landingpage?tab=readme-ov-file)
+
+-**[Free Programming Books](https://github.com/EbookFoundation/free-programming-books?tab=readme-ov-file)**
   
 ### React
 
